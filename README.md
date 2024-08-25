@@ -1,4 +1,4 @@
-# Server of Images for the Vote Aplication
+# Server of Images for the Vote Aplication (NodeJS)
 
 ## Description:
 
